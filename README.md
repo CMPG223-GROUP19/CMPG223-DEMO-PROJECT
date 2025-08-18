@@ -4,8 +4,8 @@ Welcome to the official repository for the Tawanda Orphanage Management System, 
 ## Preview
 ## 📸 Live Preview
 
-| 🏠 Home Page | 👶 Child Records | 💰 Donations |
-|-------------|------------------|--------------|
-| ![Home Page](preview/log%20in%20page.png) | ![Child Records](preview/child_records.png) | ![Donations](preview/donations.png) |
+| Log In Form | Message | Access Control | Children Records Management | Records |
+|-------------|------------------|--------------|-----------|-----------|
+| ![Log In Form](preview/log_in_page.png) | ![Log In Message](preview/access_granted_message.png) |![Access Control](preview/access_control_form.png)| ![Children Records Managemnt](preview/management_for_children_records.png) |  ![Records Preview](preview/preview_of_children_records_form.png) |
 
 
