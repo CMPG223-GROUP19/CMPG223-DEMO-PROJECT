@@ -20,3 +20,13 @@ This system was born out of a desire to simplify and modernize the way orphanage
 |Database|MySQL|
 |Quering Language|SQL|
 |Version Control| GitHub|
+
+## Documentation
+All technical and functional specifications are available in the GROUP19_FinalDemo_Documentation.docx file. It includes:
+System architecture
+Functional requirements
+Installation Guide
+Passwords to access the system
+
+
+
