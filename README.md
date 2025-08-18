@@ -1,7 +1,7 @@
 # 🏡 Orphanage Management System — A Heartfelt Digital Solution
-Welcome to the official repository for the Tawanda Orphanage Management System, a system designed to bring structure, care, and clarity to the management of orphanage operations. Whether you're tracking children’s records, managing donations or coordinating staff activities — this system is your digital companion in compassion.
+Welcome to the official repository for the Tawanda Orphanage Management System, a simple system designed to bring structure, care and clarity to the management of orphanage operations. Whether you're tracking children’s records, managing donations or coordinating staff activities — this system is your digital companion in compassion.
 ## Overview
-This system was born out of a desire to simplify and modernize the way orphanages manage their internal data. Inspired by real-world challenges and built with empathy. It offers:
+This system was born out of a desire to simplify and modernize the way orphanages manage their internal data. Inspired by real-world challenges and built with empathy, the development process mostly focused on delivering a low cost but efficient system. It offers:
 ##### - Child Record Management — Track personal details, health info and educational progress.
 ##### - Donation Tracking — Log donor details, donation amounts and generate reports.
 ##### - Staff Coordination — Assign roles and manage access control to different parts of the system.
