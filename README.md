@@ -23,10 +23,20 @@ This system was born out of a desire to simplify and modernize the way orphanage
 
 ## Documentation
 All technical and functional specifications are available in the GROUP19_FinalDemo_Documentation.docx file. It includes:
-System architecture
-Functional requirements
-Installation Guide
-Passwords to access the system
+- System architecture
+- Use Case Models
+- Functional requirements
+- Installation Guide
+- Passwords to access the system
 
+## Contributors
+This project was lovingly crafted by Group 19 in their second year of studies — a team of passionate NWU students committed to making a difference through code.
 
+1. Makanaka Farasi
+2. Neo Hlumbene
+3. Amogelang Montjane
+4. Michel Sibanda
+5. Solihle Xhinela
 
+## 💌 Feedback & Support
+Have ideas to improve the system? Want to contribute? Open an issue or drop us a message — we’d love to hear from you! Additionally you can email: solihlexhinela8@gmail.com OR neohlumbene@gmail.com
