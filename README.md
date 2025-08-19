@@ -39,4 +39,4 @@ This project was lovingly crafted by Group 19 in their second year of studies �
 5. Solihle Xhinela
 
 ## 💌 Feedback & Support
-Have ideas to improve the system? Want to contribute? Open an issue or drop us a message — we’d love to hear from you! Additionally you can email: solihlexhinela8@gmail.com OR neohlumbene@gmail.com
+Have ideas to improve the system? Want to contribute? Open an issue or drop us a message — we’d love to hear from you! Additionally you can send an email to: solihlexhinela8@gmail.com OR neohlumbene@gmail.com
